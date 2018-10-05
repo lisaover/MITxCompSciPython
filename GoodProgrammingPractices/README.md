@@ -5,4 +5,7 @@
 * Exceptions
 * Assertions
 ### Problem Set
-Word Game (supplementary file word.txt)
+Word Game<br\>
+* ps4a.py
+* ps4b.py
+* word.txt
