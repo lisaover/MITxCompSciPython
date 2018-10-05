@@ -4,4 +4,6 @@
 * Lists
 * Dictionaries
 ### Problem Set
-Hangman (supplementary file word.txt)
+Hangman<br/>
+* hangman.py
+* word.txt
