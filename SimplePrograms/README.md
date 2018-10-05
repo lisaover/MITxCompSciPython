@@ -2,5 +2,6 @@
 ### List of Topics
 * Algorithms
 * Functions
+* Recursion
 ### Problem Set
 Debt Balance
