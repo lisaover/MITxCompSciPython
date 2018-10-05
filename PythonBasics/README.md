@@ -1,5 +1,5 @@
 ## Week 1 
-## #List of Topics
+### List of Topics
 
 * Data Types
 * Variables
