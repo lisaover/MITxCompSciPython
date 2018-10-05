@@ -4,4 +4,4 @@
 * Lists
 * Dictionaries
 ### Problem Set
-Hangman
+Hangman (supplementary file word.txt)
